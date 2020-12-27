@@ -1,3 +1,3 @@
 default:
-	gcc -o ncchess main.cpp -lncurses
+	g++ -o ncchess main.cpp -lncurses
 
